@@ -1,6 +1,5 @@
 @echo off
 title Atlas Finder
-color 0A
 
 echo.
 echo ================================
@@ -21,3 +20,4 @@ python main.py
 
 echo.
 pause
+
